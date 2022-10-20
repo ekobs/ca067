@@ -1,0 +1,95 @@
+body {
+  background-color: #f1f1f2;
+}
+.navbar {
+  background: linear-gradient(to right, #0ccda3, #c1fcd3);
+  height: 100px;
+}
+.navbar-brand {
+  font-family: serif;
+  color: #f1f1f2;
+}
+.nav-link {
+  font-family: serif;
+  color: #1995ad;
+}
+.jumbotron {
+  margin: 0;
+  background: linear-gradient(to right, #0ccda3, #c1fcd3);
+}
+span {
+  background-color: #0ccda3;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  font-family: cursive;
+  color: #f1f1f2;
+  font-weight: bold;
+}
+.teks {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.coba {
+  background-color: #bbcf4a;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.btn:hover {
+  background-color: red;
+  color: #f1f1f2;
+}
+.konten {
+  background-color: #f1f1f2;
+  margin: 0;
+}
+.galery {
+  color: black;
+  font-family: calibri;
+  padding-top: 10px;
+  background-color: #0ccda3;
+  border-bottom-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  font-weight: bold;
+}
+.card {
+  background-color: #0ccda3;
+}
+.bawah {
+  margin-top: 30px;
+  background-color: #0ccda3;
+  height: 2rem;
+}
+.promo {
+  margin: 0;
+  background: linear-gradient(#0ccda3, #c1fcd3);
+}
+.mulai {
+  color: #1995ad;
+}
+.rp {
+  font-size: 25px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  color: #1995ad;
+}
+.wadah {
+  text-align: center;
+  border-radius: 20px;
+  padding-left: 10px;
+}
+.tentang-txt {
+  color: #1995ad;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+.WA {
+  background-color: #25d366;
+}
+.uwo {
+  text-decoration: none;
+  color: white;
+}
+.IG {
+  background: linear-gradient(to right, #c32aa3, #4c5fd7, #7232bd, #f46f30, #ffdc7d);
+}
+.FB {
+  background-color: #3b5998;
+}
